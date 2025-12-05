@@ -26,6 +26,8 @@ Athena is an intelligent speech coach that helps entrepreneurs, presenters, and 
 ```
 ATHENA PROJECT/
 ├── __pycache__/
+│   ├── agents_feedback.cpython-312.pyc
+│   └── transcribe.cpython-312.pyc
 ├── codes/
 │   ├── agents_feedback.py    # Multi-agent feedback system
 │   ├── app.py                # Main analysis pipeline
