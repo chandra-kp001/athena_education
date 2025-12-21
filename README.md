@@ -1,4 +1,4 @@
-# 🎙️ ATHENA PROJECT
+# 🎙️ AI-powered speech analysis system
 
 A comprehensive AI-powered speech analysis system that evaluates pitch presentations using advanced audio processing and multi-agent AI feedback. Athena analyzes speech patterns, delivery metrics, and provides feedback from four different "Shark Tank" perspectives.
 
